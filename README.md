@@ -44,7 +44,7 @@ SQL Developer | DBA | Data Engineer — 14+ years experience
 | LMS Database | SQL Server, T-SQL | 10K+ users supported |
 
 ## 🛠️ Skills
-MSSQL Server | Azure SQL | SSIS | ADF | Snowflake | My SQL
+MS SQL Server | Azure SQL | SSIS | ADF | Snowflake | My SQL
 Python | T-SQL | PL/SQL | Power BI | Kafka | Spark
 
 ## 📜 Certifications
